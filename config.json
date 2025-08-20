@@ -85,6 +85,10 @@
     "xiaomaomi": {
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
+    },
+    "gaoji": {
+      "api": "https://video.gaojilingjuli.top/api.php/provide/vod",
+      "name": "gaoji资源"
     }
   }
 }
